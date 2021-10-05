@@ -38,8 +38,8 @@ To use this project, first clone the repo on your device using the command below
 ```bash
 
 git clone https://github.com/eefe1/pokedex.git
-npm install
 cd pokedex
+npm install
 npm i --save lodash
 npm start # open localhost:3000
 
