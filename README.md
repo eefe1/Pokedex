@@ -7,7 +7,7 @@ A minimal version of the Pokédex.
 
 # Demo-Preview
 
-<!-- Add a demo for your project -->
+- https://pokedex-70ceb.web.app/
 
 
 # Table of contents
