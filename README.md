@@ -24,7 +24,6 @@ A minimal version of the Pokédex.
 
 
 * [create-react-app](https://github.com/facebook/create-react-app)
-* [react-router](https://reacttraining.com/react-router/)
 * [Pokéapi](https://pokeapi.co/) - The RESTful Pokémon API
 
 
