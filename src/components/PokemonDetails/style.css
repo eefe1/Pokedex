@@ -1,0 +1,46 @@
+.pokeman-details-screen h1 {
+  margin: 34px 0 60px 78px;
+  font-size: 0.8em;
+}
+.pokeman-details-screen {
+  width: 800px;
+  text-transform: capitalize;
+  height: 760px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 78px;
+}
+.pokemon-details-list {
+  font-size: 0.6em;
+}
+.pokeman-details-screen button {
+  position: relative;
+  left: 6%;
+  margin-top: 35px;
+  font-family: "Press Start 2P", cursive;
+  font-size: 1.5em;
+  background-color: transparent;
+  border: none;
+  cursor: grab;
+  background: transparent;
+  color: #ffea00;
+}
+.pokeman-details-screen button:hover {
+  background: #ffea00;
+  color: black;
+}
+
+.pokeman-details-screen img {
+  position: absolute;
+  margin-left: 525px;
+  margin-top: -115px;
+}
+.pokemon-name {
+  position: absolute;
+  margin-left: 460px;
+  margin-top: 170px;
+  color: #ffffff;
+  width: 240px;
+  text-align: center;
+}
